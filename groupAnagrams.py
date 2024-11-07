@@ -1,5 +1,3 @@
-from typing import List, Dict
-
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
         lists = dict()
